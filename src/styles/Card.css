@@ -1,0 +1,12 @@
+.card {
+  background-color: rgb(203, 200, 223);
+  text-align: center;
+  padding: 20px;
+  height: 300px;
+  color: blue;
+}
+
+.navbar p {
+  font-size: 30px;
+  margin: 10px;
+}

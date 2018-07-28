@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 20px;
+  height: 100px;
+  color: white;
+}
+
+.jumbotron h1 {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  margin: 10px;
+}
