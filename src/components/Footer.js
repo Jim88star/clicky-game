@@ -3,9 +3,9 @@ import "../styles/Footer.css";
 
 
 const Footer = () => (
-  <nav className="footer">
+  <footer className="footer">
    <p>Thanks for playing!</p>
-  </nav>
+  </footer>
 );
 
 export default Footer;
